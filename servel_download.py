@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 # Variables
-url_padron = "https://www.servel.cl/padron-electoral-auditado-plebiscito-nacional-2020/"
+url_padron = "https://www.servel.cl/padron-electoral-definitivo-y-nomina-de-inhabilitados-3/"
 output_folder = "output"
 
 
